@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">TourGuide</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="place_1">Home</string>
+    <string name="place_2">Explore</string>
+    <string name="place_3">Hotels</string>
+
+
+    //Ladhakh Places Name
+    <string name="delhi_place_1">LADHAKH</string>
+    <string name="delhi_place_2">Rangdum Village</string>
+
+    //Ladhakh Place Details
+    <string name="delhi_detail_1">Ladakh (/ləˈdɑːk/)[7] is a region administered by India as a union territory, and constituting a part of the larger region of Kashmir, which has been the subject of dispute between India, Pakistan, and China since 1947.[8][9] It is bordered by China (Tibet) to the east, the Indian state of Himachal Pradesh to the south, Jammu and Kashmir and Gilgit-Baltistan to the west, and the southwest corner of Xinjiang across the Karakoram Pass in the far north. It extends from the Siachen Glacier in the Karakoram range to the north to the main Great Himalayas to the south.[10][11] The eastern end of Ladakh, consisting of the uninhabited Aksai Chin plains, has been under Chinese control since 1962.[12][13] Until 2019, Ladakh was a region of the state of Jammu and Kashmir. In August 2019, the Parliament of India passed an act by which Ladakh became a union territory on 31 October 2019.</string>
+    <string name="delhi_detail_2">Rock carvings found in many parts of Ladakh indicate that the area has been inhabited from Neolithic times.[20] Ladakhs earliest inhabitants consisted of a mixed Indo-Aryan population of Mons and Dards,[21] who find mention in the works of Herodotus,[b] and classical writers as well as the Indian Puranas.[22] Around the 1st century, Ladakh was a part of the Kushan Empire. Buddhism spread into western Ladakh from Kashmir in the 2nd century. The 7th-century Buddhist traveller Xuanzang describes the region in his accounts.[23] Xuanzangs term of Ladakh is Mo-lo-so, which has been reconstructed by scholars as *Malasa, *Marāsa, or *Mrāsa, which is believed to have been the original name of the region. </string>
+
+
+    //Explore Places Name
+    <string name="e_place_1">Pangong Lake</string>
+    <string name="e_place_2">Zoo</string>
+
+    //Explore Places Details
+    <string name="explore1">The ever-changing colours of Pangong lake set against the intense blue sky make it one of the most spectacular sites in Ladakh. Pangong Tso is a glacial lake approximately 150 kilometres long, spreading out over India and China. Only 5 hours of driving distance from Leh, this lake is cannot be missed when you are Ladakh.</string>
+    <string name="explore2">Bhagwan Birsa Biological Park (also known as Ranchi Zoo) is located off Ormanjhi in Ranchi, Jharkhand, India.
+Ranchi Zoo was established in 1994 at the bank of Getalsud Dam and on the main Patna-Ranchi highway. The park has two divisions the zoological section is dedicated in 83 hectare and botanical section is spread over 21 hectare.</string>
+
+
+
+    //HOtels details
+
+    <string name="hotels_name1">Radison blue</string>
+    <string name="hotels_name2">Rasik Lal</string>
+
+    <string name="hotels_details1">Bangla School Lane, Telephone+91 651 209632</string>
+    <string name="hotels_details2">Radhey Shyam Lane, Telephone +91 651 206263"</string>
+
+</resources>
